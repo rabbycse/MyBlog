@@ -1,0 +1,190 @@
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\appsettings.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.AssemblyInfoInputs.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.AssemblyInfo.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorAssemblyInfo.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorAssemblyInfo.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.TagHelpers.input.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.TagHelpers.output.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorCoreGenerate.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorTargetAssemblyInfo.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorTargetAssemblyInfo.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\staticwebassets\MyBlog.StaticWebAssets.Manifest.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\staticwebassets\MyBlog.StaticWebAssets.xml
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.StaticWebAssets.xml
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.exe
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.deps.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.runtimeconfig.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.runtimeconfig.dev.json
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.pdb
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.Views.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.Views.pdb
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csproj.CoreCompileInputs.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.MvcApplicationPartsAssemblyInfo.cs
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.MvcApplicationPartsAssemblyInfo.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.Views.pdb
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csproj.CopyComplete
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.dll
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.pdb
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.genruntimeconfig.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csprojAssemblyReference.cache
+G:\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Report.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\appsettings.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.StaticWebAssets.xml
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.exe
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.deps.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.runtimeconfig.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.runtimeconfig.dev.json
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.pdb
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.Views.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.Views.pdb
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\New folder (3)\MyBlog\MyBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csprojAssemblyReference.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.AssemblyInfoInputs.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.AssemblyInfo.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csproj.CoreCompileInputs.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.MvcApplicationPartsAssemblyInfo.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.MvcApplicationPartsAssemblyInfo.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorAssemblyInfo.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorAssemblyInfo.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.TagHelpers.input.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.TagHelpers.output.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorCoreGenerate.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Report.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorTargetAssemblyInfo.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorTargetAssemblyInfo.cs
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.Views.pdb
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csproj.CopyComplete
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\staticwebassets\MyBlog.StaticWebAssets.Manifest.cache
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\staticwebassets\MyBlog.StaticWebAssets.xml
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.dll
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.pdb
+G:\New folder (3)\MyBlog\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.genruntimeconfig.cache
